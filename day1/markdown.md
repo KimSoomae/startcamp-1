@@ -72,7 +72,9 @@ int num = 10;
 
 [구글](https://google.com)로 이동해보자!!!!
 
-[폴더](./markdown.assets)에 마크다운 이미지가 있습니다!!!
+[폴더](./docs)에 추가 문서들이 있습니다!!!
+
+[test.md](./docs/test.md) 파일입니다.
 
 ---
 
